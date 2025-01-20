@@ -1,5 +1,5 @@
 // Specify the birthday date (month and day)
-const birthdayMonthDay = { month: 0, day: 28 }; // 0 is January (months are zero-indexed in JavaScript)
+const birthdayMonthDay = { month: 0, day: 28 };
 
 function updateCountdown() {
   const now = new Date();
