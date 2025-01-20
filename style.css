@@ -8,6 +8,11 @@ body {
     font-size: 100%
 }
 
+#balloons {
+    width: 200px;
+    height: auto;
+}
+
 .container {
     background-color: aquamarine;
     border: 2px solid black;
