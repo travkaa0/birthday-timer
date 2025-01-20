@@ -40,3 +40,9 @@ body {
     font-size: 2em;
     font-weight: bold;
 }
+
+#buttons {
+    border-radius: 10px;
+    background-color: rgb(216, 255, 242);
+    padding: 10px;
+}
